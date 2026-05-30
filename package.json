@@ -1,24 +1,12 @@
 {
-  "name": "git-codespace",
+  "name": "improved-enigma",
   "version": "1.0.0",
-  "description": "<<<<<<< HEAD\r \"# improved-enigma\" \r =======\r # improved-enigma",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/linnaier/improved-enigma.git"
+    "build": "npm run build"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/linnaier/improved-enigma/issues"
-  },
-  "homepage": "https://github.com/linnaier/improved-enigma#readme"
-  "scripts": {
-    "build": "npm run build"
-  }
+  "license": "ISC"
 }
